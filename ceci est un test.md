@@ -5,4 +5,5 @@ in_menu: true
 ---
 Mercredi c'est échecs !
 
-![Échiquier](/images/Échiquier_avec_pièces.jpg) 
+
+![Texte décrivant l'image](/images/Échiquier_avec_pièces.jpg) 
